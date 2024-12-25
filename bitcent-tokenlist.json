@@ -1,0 +1,18 @@
+{
+  "name": "BitCent Token List",  // A descriptive name for your token list
+  "tokens": [
+    {
+      "chainId": 56,  // Chain ID for Binance Smart Chain (BNB)
+      "address": "0x56e03b03987e38bd88448284e64d80ba396592a6",  // Your contract address
+      "symbol": "BTCNT", // Corrected Symbol: BitCent Token
+      "name": "BitCent",  // Full name of your token
+      "decimals": 18,   // Typically 18 for many ERC-20/BEP-20 tokens
+      "logoURI": "https://i.ibb.co/8xgVgY4/Final-NObg.png"  // Your hosted logo image URL
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
